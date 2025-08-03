@@ -1,3 +1,9 @@
+#pikpak
+0.0.0.0 access.mypikpak.com
+0.0.0.0 access.mypikpak.net
+0.0.0.0 access.pikpak.me
+0.0.0.0 access.pikpakdrive.com
+
 # MIUI 安装检查
 0.0.0.0 api.installer.xiaomi.com
 
@@ -157,3 +163,4 @@
 0.0.0.0 api.jr.mi.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
 0.0.0.0 flash.sec.miui.com
+
