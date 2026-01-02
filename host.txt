@@ -41,7 +41,7 @@
 #权限云控 好像只针对部分机型？
 0.0.0.0 auth.be.sec.miui.com
 
-#反诈
+#诈骗中心
 0.0.0.0 flash.sec.miui.com
 0.0.0.0 zpt.cn
 
@@ -163,4 +163,5 @@
 0.0.0.0 api.jr.mi.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
 0.0.0.0 flash.sec.miui.com
+
 
